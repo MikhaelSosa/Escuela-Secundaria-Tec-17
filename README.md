@@ -59,7 +59,7 @@ Artes Decorativas
 <TR>
 <TH><FONT COLOR="000000">Joaquin Boibin
 <TH><FONT COLOR="000000">Prefecto
-FFFFFF<TR>
+<TR>
 <TH><FONT COLOR="000000">Esmeralda Palacios
 <TH><FONT COLOR="000000">Prefecta
 <TH><FONT COLOR="000000">8
